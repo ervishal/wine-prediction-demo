@@ -1,0 +1,5 @@
+[core]
+    analytics = false
+    remote = wineremote
+['remote "wineremote"']
+    url = s3://mlops-demo-wine-bucket
